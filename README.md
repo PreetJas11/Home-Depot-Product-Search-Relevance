@@ -1,4 +1,4 @@
-# 🏠 Home Depot Product Search Relevance
+# Home Depot Product Search Relevance
 Predicting product search relevance for Home Depot using TF-IDF + Linear Regression and Word2Vec + PyTorch 
 
 > Based on the [Home Depot Product Search Relevance](https://www.kaggle.com/competitions/home-depot-product-search-relevance) Kaggle competition.
